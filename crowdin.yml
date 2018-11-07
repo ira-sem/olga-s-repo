@@ -1,3 +1,7 @@
 files:
   - source: /olia_test/translations_po/german/*.po
     translation: /olia_test/translations_po/%locale%/*.po
+  - source: /**/*.*
+    ignore:
+      - /**/*.csv
+    translation: /%original_path%/%locale%/%original_file_name%
