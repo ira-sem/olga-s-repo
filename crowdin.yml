@@ -1,3 +1,0 @@
-files:
-  - source: /*.po
-    translation: /ira/%file_name%.%language%.%file_extension%
