@@ -1,0 +1,3 @@
+files:
+  - source: /olia_test/translations_po/german/*.po
+    translation: /olia_test/translations_po/%locale%/*.po
