@@ -5,3 +5,6 @@ files:
     ignore:
       - /**/*.csv
     translation: /%original_path%/%locale%/%original_file_name%
+  - source: /test/fr_FR/*.xml
+    translation: /test/%locale%/%original_file_name%.xml
+    translate_content: 0
