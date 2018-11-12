@@ -7,6 +7,6 @@ files:
       }
     }
     "export_languages": [                                   
-    "fr", 
+    "fr-FR", 
     "sv-SE"
   ]
