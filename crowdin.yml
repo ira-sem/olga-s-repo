@@ -1,5 +1,6 @@
 files:
   - source: /*en.*
     translation: '/ira/%file_name%_%two_letters_code%.%file_extension%,'
-    translation_replace:
-      en: 
+    translation_replace: {
+    "_en" : ""
+}
