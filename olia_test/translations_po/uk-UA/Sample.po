@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: ira-trial-new\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2008-09-03 10:09+0200\n"
-"PO-Revision-Date: 2018-11-12 13:14\n"
+"PO-Revision-Date: 2018-11-12 13:18\n"
 "Last-Translator: yavorysynka <olga@crowdin.com>\n"
 "Language-Team: Ukrainian\n"
 "MIME-Version: 1.0\n"
@@ -17,12 +17,12 @@ msgstr ""
 "Language: uk_UA\n"
 
 #: hi
-msgid "Hi."
-msgstr "Привіт."
+msgid "Hello."
+msgstr "Вітаю."
 
-#: great
-msgid "Great"
-msgstr "Відмінно"
+#: great idea
+msgid "Great idea"
+msgstr ""
 
 #: plurals
 #, string with plurals forms
