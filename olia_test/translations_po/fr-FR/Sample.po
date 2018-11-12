@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: ira-trial-new\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2008-09-03 10:09+0200\n"
-"PO-Revision-Date: 2018-11-12 08:36\n"
+"PO-Revision-Date: 2018-11-12 08:40\n"
 "Last-Translator: yavorysynka <olga@crowdin.com>\n"
 "Language-Team: French\n"
 "MIME-Version: 1.0\n"
@@ -18,25 +18,26 @@ msgstr ""
 
 #: simple string sample
 msgid "Text for translation"
-msgstr ""
+msgstr "Texte pour la traduction"
 
 #: sample with translated string
 msgid "Text for translation"
-msgstr ""
+msgstr "Texte pour la traduction"
 
 #: long string without new line
 msgid "Very long string for translationeven longer string for translation."
-msgstr ""
+msgstr "Très longue chaîne pour translationeven longue chaîne de la traduction."
 
 #: long string with new line
 msgid "Very long string.\n"
 "Even longer string"
-msgstr ""
+msgstr "Très longue chaîne.\n"
+"Encore plus longue chaîne"
 
 #: plurals
 #, string with plurals forms
 msgid "Time: %1 second"
 msgid_plural "Time: %1 seconds"
-msgstr[0] ""
+msgstr[0] "Temps: %1 deuxième"
 msgstr[1] ""
 
