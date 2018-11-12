@@ -6,3 +6,7 @@ files:
         "fr" : "frch"
       }
     }
+    "export_languages": [                                   
+    "fr", 
+    "sv-SE"
+  ]
