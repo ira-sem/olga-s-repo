@@ -6,8 +6,6 @@ files:
         "fr" : "frch"
       }
     }
-   - source: /*.po
-    translation: /olia_test/translations_po/%locale%/%original_file_name%
     "export_languages": [                                   
     "fr", 
     "sv-SE"
