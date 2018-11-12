@@ -1,0 +1,43 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ira-trial-new\n"
+"Report-Msgid-Bugs-To: http://bugs.kde.org\n"
+"POT-Creation-Date: 2008-09-03 10:09+0200\n"
+"PO-Revision-Date: 2018-11-12 11:09\n"
+"Last-Translator: yavorysynka <olga@crowdin.com>\n"
+"Language-Team: French\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: ira-trial-new\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: /master/Sample.po\n"
+"Language: fr_FR\n"
+
+#: simple string sample
+msgid "Text for translation"
+msgstr "Texte pour la traduction"
+
+#: sample with translated string
+msgid "Text for translation"
+msgstr "Texte pour la traduction"
+
+#: long string without new line
+msgid "Very long string for translationeven longer string for translation."
+msgstr "Très longue chaîne pour translationeven longue chaîne de la traduction."
+
+#: long string with new line
+msgid "Very long string.\n"
+"Even longer string"
+msgstr "Très longue chaîne.\n"
+"Encore plus longue chaîne"
+
+#: plurals
+#, string with plurals forms
+msgid "Time: %1 second"
+msgid_plural "Time: %1 seconds"
+msgstr[0] "Temps : %1 deuxième"
+msgstr[1] "Temps : %1 deuxième"
+
