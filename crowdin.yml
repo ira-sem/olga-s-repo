@@ -1,6 +1,8 @@
 files:
-  - source: /*uk.*
-    translation: /ira trial/%file_name%_%two_letters_code%.%file_extension%
-    translation_replace: {
-    "uk" : ""
-}
+  - source: /*.*
+    ignore:
+      - /*.csv
+      - /*.xml
+    translation: /Ira_2/%language%.%original_file_name%
+    translation_replace:
+      uk: 
