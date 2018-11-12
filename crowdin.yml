@@ -1,3 +1,6 @@
 files:
   - source: /*uk.*
     translation: /ira trial/%file_name%_%two_letters_code%.%file_extension%
+    translation_replace: {
+    "uk" : ""
+}
