@@ -2,4 +2,3 @@ files:
   - source: /*.csv
     translation: /Ira_4/%locale%.%original_file_name%
     scheme: 'identifier,source_or_translation,context'
-    dest: /someotherfolder/ukrn.ini
