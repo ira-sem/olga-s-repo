@@ -1,5 +1,6 @@
 files:
-  - source: /uk.ini
+  - source: /*.csv
+    translation: /Ira_3/%locale%.%original_file_name%
+    multilingual_spreadsheet: 1
+    scheme: 'identifier,source_phrase,es-ES,fr,de,sv-SE,uk'
     dest: /someotherfolder/ukrn.ini
-    translation: /dest/%language%/%file_extension%
-    
