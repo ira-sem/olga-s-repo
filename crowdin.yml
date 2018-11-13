@@ -2,3 +2,5 @@ files:
   - source: /Sample.csv
     translation: /smth/%locale%/%original_file_name%
     scheme: 'identifier,context,source_or_translation'
+   - source: /Example.json
+   update option: "update_as_unapproved"
