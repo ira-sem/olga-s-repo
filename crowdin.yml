@@ -1,5 +1,4 @@
 files:
-  - source: /Multilingual_spreadsheet_sample.csv
+  - source: /Sample.csv
     translation: /smth/%locale%/%original_file_name%
-    multilingual_spreadsheet: 1
-    scheme: 'identifier,context,source_phrase,es-ES,fr'
+    scheme: 'identifier,context,source_or_translation'
