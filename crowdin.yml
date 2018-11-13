@@ -2,6 +2,4 @@ files:
   - source: /*.json
     translation: /test/%locale%/%original_file_name%,
     "update_option" : "update_without_changes"
-  }
-]
 
