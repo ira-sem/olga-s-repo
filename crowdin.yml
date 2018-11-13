@@ -1,6 +1,6 @@
 files:
   - source: /*.*
-  "dest" : "/someotherfolder/en.ini",
+    dest: "/someotherfolder/en.ini",
     ignore:
       - /*.xml
       - Sample.csv
