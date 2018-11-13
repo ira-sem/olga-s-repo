@@ -1,12 +1,5 @@
 files:
-  - source: /*.*
-    dest: "/someotherfolder/en.ini",
-    ignore:
-      - /*.xml
-      - Sample.csv
-    translation: /Ira_2/%language%.%original_file_name%
-    multilingual_spreadsheet: 1
-    scheme: 'identifier,source_phrase,context,es-ES,fr,de,sv-SE,uk'
-    translation_replace:
-      uk: 
+  - source: /uk.ini
+    dest: "/someotherfolder/ukrn.ini",
+ 
 
