@@ -1,5 +1,4 @@
 files:
   - source: /uk.ini
-    dest: "/someotherfolder/ukrn.ini"
- 
-
+    translation: /dest/%language%/%file_extension%
+    dest: /someotherfolder/ukrn.ini
