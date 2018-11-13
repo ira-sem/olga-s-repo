@@ -8,6 +8,4 @@ files:
     scheme: 'identifier,source_phrase,context,es-ES,fr,de,sv-SE,uk'
     translation_replace:
       uk: 
--  "source" : "/uk.ini",
-   "dest" : "/smth.ini",
-   "translation" : "/ira dest/%language%.%original_file_name"
+
