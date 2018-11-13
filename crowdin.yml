@@ -1,5 +1,5 @@
 files:
   - source: /uk.ini
-    dest: "/someotherfolder/ukrn.ini",
+    dest: "/someotherfolder/ukrn.ini"
  
 
