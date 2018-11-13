@@ -3,4 +3,3 @@ files:
     translation: /smth/%locale%/%original_file_name%
     multilingual_spreadsheet: 1
     scheme: 'identifier,context,source_phrase,es-ES,fr'
-    dest: /someotherfolder/ukrn.ini
