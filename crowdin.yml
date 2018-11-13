@@ -1,2 +1,3 @@
-"source" : "/*.json",
-"translation" : "/test/%locale%/%original_file_name%,"
+files:
+  - source: /*.json
+    translation: /test/%locale%/%original_file_name%
